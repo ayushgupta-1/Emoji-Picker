@@ -8,7 +8,6 @@ type EmojiCategories = {
 };
 
 export const emojiObj: EmojiCategories = {
-  // export const emojiObj = {
   People: [
     {
       emoji: "😀",
