@@ -1,5 +1,8 @@
 # Emoji Picker for React & Next apps
 
+![emoji-picker](https://github.com/user-attachments/assets/6bf78882-9bde-44bc-bc58-634611ef7552)
+
+
 A simple and customizable emoji picker component for React and Next applications. This emoji picker is designed to be easy to integrate into your projects by simply copying two files.
 
 ## Features
