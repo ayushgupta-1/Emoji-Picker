@@ -2,7 +2,6 @@
 
 ![emoji-picker](https://github.com/user-attachments/assets/6bf78882-9bde-44bc-bc58-634611ef7552)
 
-
 A simple and customizable emoji picker component for React and Next applications. This emoji picker is designed to be easy to integrate into your projects by simply copying two files.
 
 ## Features
@@ -11,6 +10,7 @@ A simple and customizable emoji picker component for React and Next applications
 - Customizable styles
 - Lightweight and no external dependencies aside from [react-icons](https://www.npmjs.com/package/react-icons)
 - Works seamlessly in React and Next.js projects
+- **Uses Tailwind CSS:** The EmojiPicker is styled using Tailwind CSS. You will need to pre-configure Tailwind in your project to achieve the same styling. Please refer to the [Tailwind CSS installation guide](https://tailwindcss.com/docs/installation) for more details.
 
 ## Getting Started
 
