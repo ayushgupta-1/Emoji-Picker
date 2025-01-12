@@ -38,3 +38,5 @@ In your React or Next.js component, import the EmojiPicker:
 ```typescript
 import EmojiPicker from "./path/to/EmojiPicker";
 ```
+
+That's it! you are good to go.
