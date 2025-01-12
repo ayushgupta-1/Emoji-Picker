@@ -39,4 +39,4 @@ In your React or Next.js component, import the EmojiPicker:
 import EmojiPicker from "./path/to/EmojiPicker";
 ```
 
-That's it! you are good to go.
+That's it! you are good to go!
